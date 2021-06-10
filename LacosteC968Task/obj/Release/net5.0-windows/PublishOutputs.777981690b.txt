@@ -1,0 +1,5 @@
+C:\Users\Vaero\C# Class 1 Project\Published\LacosteC968Task.exe
+C:\Users\Vaero\C# Class 1 Project\Published\LacosteC968Task.dll
+C:\Users\Vaero\C# Class 1 Project\Published\LacosteC968Task.deps.json
+C:\Users\Vaero\C# Class 1 Project\Published\LacosteC968Task.runtimeconfig.json
+C:\Users\Vaero\C# Class 1 Project\Published\LacosteC968Task.pdb

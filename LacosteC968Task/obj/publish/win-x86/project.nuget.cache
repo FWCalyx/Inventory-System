@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kPnLtDeFcJzEeXJdiHusTGkLJGBRkz3IHIEQNwenL+nLELumozXrFReR33Xq2kxWiacSCB3hx0pPKi4yVyZcig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vaero\\source\\repos\\LacosteC968Task\\LacosteC968Task\\LacosteC968Task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vaero\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.5\\microsoft.netcore.app.runtime.win-x86.5.0.5.nupkg.sha512",
+    "C:\\Users\\Vaero\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.5\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.5.nupkg.sha512",
+    "C:\\Users\\Vaero\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.5\\microsoft.aspnetcore.app.runtime.win-x86.5.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
